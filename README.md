@@ -68,7 +68,7 @@ Ensure **Python 3.6+** is installed. No additional libraries are required, as th
 Clone the repository:
 ```bash
 git clone https://github.com/mrxehmad/port-scanner2.0.git
-cd subnet-port-scanner
+cd port-scanner2.0
 ```
 
 Run the script:
